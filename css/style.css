@@ -48,7 +48,6 @@
 body{
     -webkit-font-smoothing:antialiased;
     font-family: "Raleway-regular";
-    over-flow:hidden;
 }
 .container {
     width:100%;
